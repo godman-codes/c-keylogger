@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\netAPps\wizkid\wizkid\bin\Debug\wizkid.exe.config
+C:\Users\HP\Desktop\netAPps\wizkid\wizkid\bin\Debug\wizkid.exe
+C:\Users\HP\Desktop\netAPps\wizkid\wizkid\bin\Debug\wizkid.pdb
+C:\Users\HP\Desktop\netAPps\wizkid\wizkid\obj\Debug\wizkid.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\netAPps\wizkid\wizkid\obj\Debug\wizkid.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\netAPps\wizkid\wizkid\obj\Debug\wizkid.Properties.Resources.resources
+C:\Users\HP\Desktop\netAPps\wizkid\wizkid\obj\Debug\wizkid.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\netAPps\wizkid\wizkid\obj\Debug\wizkid.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\netAPps\wizkid\wizkid\obj\Debug\wizkid.exe
+C:\Users\HP\Desktop\netAPps\wizkid\wizkid\obj\Debug\wizkid.pdb
+C:\Users\HP\Desktop\netAPps\wizkid\wizkid\bin\Debug\wizkid.exe.manifest
+C:\Users\HP\Desktop\netAPps\wizkid\wizkid\bin\Debug\wizkid.application
+C:\Users\HP\Desktop\netAPps\wizkid\wizkid\obj\Debug\wizkid.exe.manifest
+C:\Users\HP\Desktop\netAPps\wizkid\wizkid\obj\Debug\wizkid.application
